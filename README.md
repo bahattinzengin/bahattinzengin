@@ -4,4 +4,4 @@ Merhabalar 👋, Ben Bahattin!
 📫 Benimle iletişime geçmek için: bahattinzengin@gmail.com
 
 💻 Kullandığım Teknolojiler
-CSS3 JavaScript HTML5 Bootstrap  Firebase React Redux Typscript Tailwind CSS
+CSS3 JavaScript HTML5 Bootstrap  Firebase React Redux Typscript Tailwind React-Context
