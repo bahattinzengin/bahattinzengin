@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahattin Zengin</h1>
+
 - 🔭 I am currently **working in the industry.**
 
 - 👯 I'm currently **working in frontend development and striving to continuously improve myself.**
