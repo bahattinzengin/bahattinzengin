@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bahattin Zengin</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahattinzengin" alt="bahattinzengin" /></a> </p>
+- 🔭 I am currently **working in the industry.**
 
-- 💬 Ask me about **React JS,React,Javascript**
+- 👯 I'm currently **working in frontend development and striving to continuously improve myself.**
+
+- 🤝I develop **projects with React and Javascript.**
 
 - 📫 How to reach me **bahattinzengin@gmail.com**
 
