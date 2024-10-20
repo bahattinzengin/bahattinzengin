@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bahattin Zengin</h1>
-
 - 🔭 I am currently **working in the industry.**
 
 - 👯 I'm currently **working in frontend development and striving to continuously improve myself.**
 
 - 🤝I develop **projects with React and Javascript.**
 
+- 🤭I love [learning new things and software](learning new things and software)
+
 - 📫 How to reach me **bahattinzengin@gmail.com**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
